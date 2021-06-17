@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class StudentMarks {
 
 	
-	static void adding(ArrayList students,int marks)
+	static void adding(ArrayList<Integer> students,int marks)
 	{
 		students.add(marks);
 	}
